@@ -15,6 +15,7 @@ app.use(sessionsRouter);
 const PORT = process.env.PORT ?? 8080;
 
 const server = app.listen(PORT, (error) => {
+  
   if (error) {
     console.log("Error starting the server", error);
     return;

@@ -30,11 +30,11 @@ DELETE  /api/sessions/{id}    Delete a session
 
 ## Ideas for later
 
-A dashboard where you can see your results over time for each exercise, so you can see if you're actually getting better. 
+A dashboard where you can see your results over time for each exercise, so you can see if you're actually getting better.
 
-Personal Best for each exercise, also shown on dashboard or/and independently in a box for itself with a trophy icon
+Personal Best for each exercise, shown on dashboard or/and independently in a box for itself with a trophy icon
 
-Reference page with links and content of studies related
+A page with links and content of studies related to the topics. Maybe a page that servers the newest articles from a forum alike or 
 
 ## How to run it
 
@@ -42,3 +42,5 @@ Reference page with links and content of studies related
 npm install
 npm run dev
 ```
+ 
+  
